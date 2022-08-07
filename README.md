@@ -1,1 +1,3 @@
-Classification of Iris flowers with basic Decision Tree model with deployment on streamlit.
+Iris flower classification with simple DecisionTree model deployed on Streamlit
+
+https://uliss92-iris-streamlit-app-iris-deployment-powyfq.streamlitapp.com/
